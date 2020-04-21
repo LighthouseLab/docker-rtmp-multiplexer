@@ -2,8 +2,6 @@
 
 This repository contains a basic RTMP Multiplexer within Docker. The image is based on Ubuntu 18.04.
 
-## Usage
-
  - Make sure you've installed Docker
  - Clone this repository to a place of choice
  - Edit the configuration files.
@@ -20,4 +18,4 @@ This repository contains a basic RTMP Multiplexer within Docker. The image is ba
            -td nginx-rtmp-multiplexer
    ```
 
- - That's it.
+ - Open `http://localhost/` to view the configuration instructions.
